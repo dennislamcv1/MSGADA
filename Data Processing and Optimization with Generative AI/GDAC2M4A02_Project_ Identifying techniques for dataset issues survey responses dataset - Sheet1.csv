@@ -1,0 +1,11 @@
+Respondent ID,Question 1,Question 2,Question 3 (Optional),Age,Gender
+1,Satisfied,Agree,,32,Male
+2,Neutral,Disagree,I like the new design,27,Female
+3,Dissatisfied,Strongly Agree,,45,Male
+4,,Agree,,,
+5,Satisfied,,The price is too high,38,Female
+6,Neutral,Disagree,,29,Male
+7,,Strongly Disagree,,41,Female
+8,Dissatisfied,Agree,,,
+9,Satisfied,Neutral,,35,Male
+10,,,Need more features,,

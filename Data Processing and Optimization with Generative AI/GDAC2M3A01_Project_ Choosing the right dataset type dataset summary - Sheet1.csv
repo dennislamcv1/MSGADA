@@ -1,0 +1,4 @@
+Scenario,Best Dataset Type,Justification
+Generating product descriptions,Hybrid dataset,"A combination of real-world product data (attributes, categories) and synthetic data can help generate diverse and creative descriptions, especially for new products or those with limited real-world information."
+Creating personalized marketing emails,Real-world customer data,Leveraging actual customer behavior and preferences is crucial for crafting relevant and effective email recommendations. Synthetic data can be used to fill in gaps or address imbalances in the real-world data.
+Predicting customer churn,Real-world customer data,"Historical customer data, including purchase patterns and engagement metrics, is essential for building an accurate churn prediction model. Synthetic data can be cautiously used to augment the real-world data if there are limitations in size or diversity."
